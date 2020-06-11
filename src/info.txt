@@ -1,0 +1,3 @@
+name=om
+age=24
+city=wardha
